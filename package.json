@@ -1,11 +1,17 @@
 {
     "name": "mystical-color-theme",
     "displayName": "Mystical Color Theme",
-    "description": "A custom color theme based on the Windows Terminal color scheme.",
+    "description": "Bright colors on a black background.",
     "version": "1.0.0",
+    "publisher": "mysticole928",
     "engines": {
         "vscode": "^1.0.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mysticole928/mystical-color-theme.git"
+    },
+    "license": "MIT",
     "contributes": {
         "themes": [
             {
